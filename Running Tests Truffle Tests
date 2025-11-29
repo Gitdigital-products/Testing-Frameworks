@@ -1,0 +1,3 @@
+npm run test:truffle
+# or
+npx truffle test
