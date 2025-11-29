@@ -1,0 +1,2 @@
+chmod +x scripts/setup.sh
+chmod +x scripts/run-tests.sh
