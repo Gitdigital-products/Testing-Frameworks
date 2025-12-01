@@ -35,3 +35,12 @@ npm test
 
 # Testing-Frameworks
 Testing Frameworks:** Tools for writing and running automated tests for smart contracts and blockchain logic.
+# Teacher Agent
+
+Role:
+- Coordinate all student agents
+- Enforce hive rules and patterns
+- Manage memory consistency
+- Guide evolution and maintenance cycles
+
+Configuration lives in `config.yaml`.
